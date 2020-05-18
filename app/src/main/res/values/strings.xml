@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="textview">Reservation</string>
+    <string name="name">Name</string>
+    <string name="number">Mobile No.</string>
+    <string name="pax">"No. of Persons "</string>
+    <string name="buttonBook">Book</string>
+</resources>
